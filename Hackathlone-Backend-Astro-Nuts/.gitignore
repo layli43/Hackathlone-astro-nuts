@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# IDE/editor files
+.vscode/
+
+# API keys / secrets
+.env
+
+#test file
+frontTest.py
+
+.idea
+
+
+asteroids.db
