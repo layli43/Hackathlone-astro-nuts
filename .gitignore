@@ -1,0 +1,44 @@
+# Frontend (React)
+/Hackathlone-Frontend-Astro-Nuts/node_modules/
+/Hackathlone-Frontend-Astro-Nuts/build/
+/Hackathlone-Frontend-Astro-Nuts/dist/
+/Hackathlone-Frontend-Astro-Nuts/.cache/
+/Hackathlone-Frontend-Astro-Nuts/.parcel-cache/
+/Hackathlone-Frontend-Astro-Nuts/coverage/
+/Hackathlone-Frontend-Astro-Nuts/.env
+/Hackathlone-Frontend-Astro-Nuts/.env.local
+/Hackathlone-Frontend-Astro-Nuts/.env.*.local
+/Hackathlone-Frontend-Astro-Nuts/npm-debug.log*
+/Hackathlone-Frontend-Astro-Nuts/yarn-*.log*
+/Hackathlone-Frontend-Astro-Nuts/pnpm-debug.log*
+/Hackathlone-Frontend-Astro-Nuts/.eslintcache
+/Hackathlone-Frontend-Astro-Nuts/.stylelintcache
+
+# Backend (Python)
+/Hackathlone-Backend-Astro-Nuts/__pycache__/
+/Hackathlone-Backend-Astro-Nuts/**/*.py[cod]
+/Hackathlone-Backend-Astro-Nuts/.venv/
+/Hackathlone-Backend-Astro-Nuts/venv/
+/Hackathlone-Backend-Astro-Nuts/env/
+/Hackathlone-Backend-Astro-Nuts/.env
+/Hackathlone-Backend-Astro-Nuts/.env.local
+/Hackathlone-Backend-Astro-Nuts/*.env
+/Hackathlone-Backend-Astro-Nuts/build/
+/Hackathlone-Backend-Astro-Nuts/dist/
+/Hackathlone-Backend-Astro-Nuts/*.egg-info/
+/Hackathlone-Backend-Astro-Nuts/.python-version
+/Hackathlone-Backend-Astro-Nuts/.pytest_cache/
+/Hackathlone-Backend-Astro-Nuts/.mypy_cache/
+/Hackathlone-Backend-Astro-Nuts/.ruff_cache/
+/Hackathlone-Backend-Astro-Nuts/.coverage
+/Hackathlone-Backend-Astro-Nuts/htmlcov/
+/Hackathlone-Backend-Astro-Nuts/*.db
+/Hackathlone-Backend-Astro-Nuts/*.sqlite*
+/Hackathlone-Backend-Astro-Nuts/*.log
+
+# OS / editors
+/.DS_Store
+/Thumbs.db
+/.vscode/
+/.idea/
+/.gitignore
